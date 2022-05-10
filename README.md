@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/sandra-sarpong-595305124/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.mail.maameyaasarp@gmail.com/">
+  <a href="mailto:maameyaasarp@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-red?style=for-the-badge&logo=email_me&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.twitter.com/in/marme_yaa/">
