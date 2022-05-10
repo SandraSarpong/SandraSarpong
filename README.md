@@ -6,8 +6,11 @@
   <a href="https://www.linkedin.com/in/sandra-sarpong-595305124/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="maameyaasarp@yahoo.com">
+    <img src="https://img.shields.io/badge/Email_Me-red?style=for-the-badge&logo=email_me&logoColor=white" alt="Email Badge"/>
+  </a>
   <a href="https://www.twitter.com/in/marme_yaa/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -21,7 +24,6 @@
 - 👯 I’m looking to collaborate on projects :relaxed:
 - 🤔 I’m looking for help with C programming
 - 💬 Ask me about literally anything
-- 📫 How to reach me: sandysarp@yahoo.com
 - ⚡ Fun fact: Soft life with a sprinkle of Chop Life :sunglasses:
 
 :hammer_and_wrench: Languages and Tools :
