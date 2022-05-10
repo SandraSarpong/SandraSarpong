@@ -13,6 +13,9 @@
     <img src="https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=SandraSarpong&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 
 <div align="center" width="40" height="40">
 <h2>Hi there 👋</h2>
@@ -21,7 +24,7 @@
 :woman_technologist: About Me :
 
 - 🌱 I’m currently learning JavaScript, React, Redux
-- 👯 I’m looking to collaborate on projects :relaxed:
+- 👯 I’m looking to collaborate on frontend and backend projects for both mobile and web :relaxed:
 - 🤔 I’m looking for help with C programming
 - 💬 Ask me about literally anything
 - ⚡ Fun fact: Soft life with a sprinkle of Chop Life :sunglasses:
