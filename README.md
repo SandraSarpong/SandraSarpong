@@ -23,14 +23,17 @@
 
 :woman_technologist: About Me :
 
-- 🌱 I’m currently learning JavaScript, React, Redux
-- 👯 I’m looking to collaborate on frontend and backend projects for both mobile and web :relaxed:
+- 😄 Pronouns: She / Her
+- 🔭 I’m currently working on creating a portfolio
+- 🌱 I’m currently learning about AWS Cloud Technologies
+- 👯 I’m looking to collaborate on frontend and backend projects for both mobile and web as well as cloud :relaxed:
 - 🤔 I’m looking for help with C programming
 - 💬 Ask me about literally anything
 - ⚡ Fun fact: Soft life with a sprinkle of Chop Life :sunglasses:
 
 :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
